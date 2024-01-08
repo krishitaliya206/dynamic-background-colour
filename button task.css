@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.color{
+    display: table-cell;
+    width: 150px;
+    height: 80px;
+    margin: 0 1px;
+    cursor: pointer;
+    border: 2px solid gray;
+}
+/*
+.co1{
+    background-color:red;
+}
+
+.co2{
+    background-color:green;
+}
+
+.co3{
+    background-color: purple;
+}
+
+.co4{
+    background-color:brown;
+} */
